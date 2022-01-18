@@ -1,10 +1,10 @@
-fx_version 'bodacious'
+fx_version 'cerulean'
 game 'gta5'
 
 name 'FiveM Typescript Boilerplate'
 description 'A boilerplate for using Typescript in FiveM'
-author 'Remco Troost (d0p3t)'
-url 'https://github.com/d0p3t/fivem-ts-boilerplate'
+author 'void*'
+url 'https://github.com/v0idp/fivem-ts-boilerplate'
 
 --dependency 'yarn'
 --dependency 'webpack'

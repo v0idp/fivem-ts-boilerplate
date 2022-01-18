@@ -25,7 +25,7 @@ Build your production ready code with `yarn run build`.
 This will build the client and server script with the `--mode production` flag.
 
 ### Automatic Builds (Optional)
-The `fxmanifest.lua` is not setup to automatically build upon first FXServer start. If you'd like to setup automatic builds you must remove the comments the following lines in your `fxmanifest.lua`.
+The `fxmanifest.lua` is not setup to automatically build upon first FXServer start. If you'd like to setup automatic builds you must remove the comments on the following lines in your `fxmanifest.lua`.
 
 ```lua
 dependency 'yarn'
