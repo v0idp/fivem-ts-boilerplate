@@ -3,8 +3,8 @@
   "version": "2.1.1",
   "description": "Typescript Boilerplate for FiveM",
   "main": "index.js",
-  "repository": "https://github.com/d0p3t/fivem-ts-boilerplate",
-  "author": "d0p3t <d0p3t@users.noreply.github.com>",
+  "repository": "https://github.com/v0idp/fivem-ts-boilerplate",
+  "author": "void* <voidp@protonmail.com>",
   "scripts": {
     "build": "webpack --mode production",
     "format": "prettier --write \"src/**/*.ts\"",
