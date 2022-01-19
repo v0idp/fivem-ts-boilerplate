@@ -34,5 +34,7 @@ dependency 'webpack'
 webpack_config 'webpack.config.js'
 ```
 
+I highly recommend to not use this since it won't work with webpack 5 and above, you would have to downgrade to an earlier webpack 4 version for this. Just build manually
+
 ## License
 This product is MIT licensed. Please make sure you give credit and include this license in your product.
