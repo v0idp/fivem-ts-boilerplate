@@ -9,7 +9,7 @@
   </a>
 </p>
 
-This project is based on the basic boilerplate by [d0p3t](https://github.com/d0p3t) for creating a FiveM resource using Typescript. I made some improvements and updates to the packages to keep it up-to-date. It includes webpack config files, linting (ESlint + prettier) and a directory structure to get you started. I recommend to use [fivem-js](https://github.com/d0p3t/fivem-js) alongside this boilerplate for faster development of client scripts. Original repository: [d0p3t/fivem-ts-boilerplate](https://github.com/d0p3t/fivem-ts-boilerplate)
+This project is based on the basic boilerplate by [d0p3t](https://github.com/d0p3t) for creating a FiveM resource using Typescript. I made some improvements and updates to the packages to keep it up-to-date. It includes webpack config files, linting (ESlint + prettier) and a directory structure to get you started. I also included [native-wrappers-client](https://github.com/AvarianKnight/native-wrappers-client/tree/master/examples/typescript/src) to increase development time. Original repository can be found here: [d0p3t/fivem-ts-boilerplate](https://github.com/d0p3t/fivem-ts-boilerplate)
 
 ## Usage
 1. Clone repository into your `resources/[local]` folder.
